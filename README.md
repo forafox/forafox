@@ -17,9 +17,9 @@
  </a>
  
 ### About me
-- Second year ITMO student in Software Engineering
-- Computer science tutor for final school exams 
-- I love reading science fiction. Favorite authors are the Strugatsky brothers
+- Second year ITMO student in Software Engineering :school:
+- Computer science tutor for final school exams :computer:
+- I love reading science fiction. Favorite authors are the Strugatsky brothers :books:
 <h2 align="center"> 👨‍💻 Forafox</h2>
 
 ### :hammer_and_wrench: Languages:
