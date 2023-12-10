@@ -22,7 +22,7 @@
 - I love reading science fiction. Favorite authors are the Strugatsky brothers :books:
 <h2 align="center"> 👨‍💻 Forafox</h2>
 
-### :hammer_and_wrench: Languages:
+### Languages:
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" />&nbsp
  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp
