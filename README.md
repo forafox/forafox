@@ -17,19 +17,85 @@
  </a>
  
 ### About me
-- Second year ITMO student in Software Engineering :school:
-- Computer science tutor for final school exams :computer:
-- I love reading science fiction. Favorite authors are the Strugatsky brothers :books:
-<h2 align="center"> 👨‍💻 Forafox</h2>
 
-### Languages:
-<div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" />&nbsp
- <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-</div>
+Мне 19 лет. Занимаюсь разработкой на Java 2 года. Имею большое количество pet-проектов, активно веду GitHub. Есть опыт самостоятельного проектирования и создания различного уровня сложности сервисов с нуля. Люблю читать техническую литературу (авторы - Э. Таненбаум, Р. Мартин, Б. Эккель , Т. Кормен и др.). Участвую в соревнованиях по программированию и занимаюсь преподавательством.
+
+## :sparkles:Technical Stack
+
+### Programming Languages
+- ___Java___ (My main)
+- ___Kotlin___
+- ___Python___
+- ___C++___
+- ___C___
+- ___JavaScript___
+- ___TypeScript___
+  
+<p align='center' >
+<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />&nbsp;
+<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />&nbsp;
+<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>&nbsp;
+<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />&nbsp;
+<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />&nbsp;
+<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />&nbsp;
+<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />;
+</p>
+
+  ### Frameworks
+- ___Spring, Java___
+- ___Angular, TypeScript___
+- ___React, JavaScript___
+  
+<p align='center' >
+<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />&nbsp;
+<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" />&nbsp;
+ <img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />&nbsp;
+</p>
+
+### Databases
+- ___PostgreSQL___
+- ___SQLite___
+- ___MySQL___
+  
+<p align='center' >
+<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />&nbsp;
+<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"  />&nbsp;
+<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />&nbsp;
+</p>
+
+
+### Other
+- ___Git___
+- ___HTML___
+- ___CSS___
+- ___Docker___
+  
+<p align='center' >
+<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />&nbsp;
+<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />&nbsp;
+<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  />&nbsp;
+<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  />&nbsp;
+</p>
+
+<br>
+
+## :sparkles:Education
+
+- ### **ITMO University**
+
+    ___2022 - 2026___
+
+    ___Faculty___: Faculty of Software Engineering and Computer Engineering
+
+    ___Educational program___: Software Engineering
+
+    ___Specialization___: System and Application software
+
+<br>
+
+## :sparkles:Languages
+- ___Russian___. Level: Native
+- ___English___. Level: B2, Upper-Indermediate
+
+<br>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
