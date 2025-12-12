@@ -70,7 +70,3 @@ I'm always open to discussing **new opportunities, innovative projects, or just 
 - **Telegram**: [@forafox](https://t.me/forafox) *(preferred)*
 - **Email**: [deskpa@yandex.ru](mailto:deskpa@yandex.ru)
 - **GitHub**: [@forafox](https://github.com/forafox)
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
-</p>
