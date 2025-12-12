@@ -1,101 +1,76 @@
-# Hi there 👋
+<h1 align="center">Hi there 👋, I'm Andrey Karabanov</h1>
+<h3 align="center">Backend Engineer | Java/Kotlin Developer | Building Scalable Systems</h3>
 
-<div id="header" align="center">
- <h1>Hi there, I'm Andrey</h1>
- <h3>Computer science student, Programmer from ITMO</h3>
-</div>
-
-### Links : <span align="center">
-<a href="https://vk.com/karapyzika">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="linkToVk" height="25" widht="20"/>
-</a>
-<a href="https://github.com/forafox">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub: forafox" height="25" widht="20"/>
-</a>
-<a href="https://t.me/forafox">
- <img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram: forafox" height="25" widht="20" />
- </a>
- 
-### About me
-
-Мне 20 лет. Занимаюсь разработкой на Java 3 года. Имею большое количество pet-проектов, активно веду GitHub. Есть опыт самостоятельного проектирования и создания различного уровня сложности сервисов с нуля. Люблю читать техническую литературу (авторы - Э. Таненбаум, Р. Мартин, Б. Эккель , Т. Кормен и др.). Участвую в соревнованиях по программированию и занимаюсь преподавательством.
-
-## :sparkles:Technical Stack
-
-### Programming Languages
-- ___Java___ (My main)
-- ___Kotlin___
-- ___Python___
-- ___C++___
-- ___C___
-- ___JavaScript___
-- ___TypeScript___
-  
-<p align='center' >
-<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />&nbsp;
-<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />&nbsp;
-<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>&nbsp;
-<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />&nbsp;
-<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />&nbsp;
-<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />&nbsp;
-<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />;
+<p align="center">
+  <a href="https://t.me/forafoxw"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:deskpa@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/forafox"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-  ### Frameworks
-- ___Spring, Java___
-- ___Angular, TypeScript___
-- ___React, JavaScript___
-  
-<p align='center' >
-<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />&nbsp;
-<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" />&nbsp;
- <img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />&nbsp;
+---
+
+### 👨‍💻 About Me
+
+I'm a **Backend Software Engineer** with **3+ years of commercial experience** in building high-load systems, microservices, and automating business processes. My passion lies in designing clean architecture, improving performance, and implementing robust CI/CD and monitoring solutions. I thrive in taking ownership of projects from concept to production.
+
+- 🔭  I’m currently working as a **Java/Kotlin Developer**, developing high-performance AdTech microservices.
+- 🏗️  Experienced in **system design**, **refactoring legacy code**, and **performance optimization** (RPS improvements, DB query tuning).
+- 🛠️  I enjoy creating **internal tools & libraries** (Spring Boot Starters) to standardize development and reduce boilerplate.
+- 📊  Strong advocate for **observability**: implemented OpenTelemetry tracing, built Grafana dashboards, and conducted load testing with Gatling.
+- 👨‍🏫  Beyond coding, I participate in programming competitions, mentor others, and contribute to hackathons (recently focusing on AI).
+- 📚  Constantly learning. Inspired by works of **E. Tanenbaum, R. Martin, B. Eckel, and T. Cormen**.
+
+---
+
+### 🚀 Core Tech Stack & Expertise
+
+**Backend & Languages:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**Databases & ORM:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![R2DBC](https://img.shields.io/badge/R2DBC-00A98F?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps & Monitoring:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes (Nomad)](https://img.shields.io/badge/Orchestration(Nomad)-7D3BE6?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge)
+
+**Frontend & Tools:**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📚 Education & Continuous Learning
+
+*   **ITMO University** (2022 – 2026)
+    *   Software Engineering & Computer Systems
+    *   Specialization: System & Application Software
+
+*   **Certifications & Training:**
+    *   **T1 Holding** – Open School for Java Developers (2024)
+    *   **Yandex** – Algorithm Training 5.0, 6.0, 7.0 (2024-2025)
+
+---
+
+### 📫 Let's Connect!
+
+I'm always open to discussing **new opportunities, innovative projects, or just tech**.
+- **Telegram**: [@forafox](https://t.me/forafox) *(preferred)*
+- **Email**: [deskpa@yandex.ru](mailto:deskpa@yandex.ru)
+- **GitHub**: [@forafox](https://github.com/forafox)
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
 </p>
-
-### Databases
-- ___PostgreSQL___
-- ___SQLite___
-- ___MySQL___
-  
-<p align='center' >
-<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />&nbsp;
-<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"  />&nbsp;
-<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />&nbsp;
-</p>
-
-
-### Other
-- ___Git___
-- ___HTML___
-- ___CSS___
-- ___Docker___
-  
-<p align='center' >
-<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />&nbsp;
-<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />&nbsp;
-<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  />&nbsp;
-<img width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  />&nbsp;
-</p>
-
-<br>
-
-## :sparkles:Education
-
-- ### **ITMO University**
-
-    ___2022 - 2026___
-
-    ___Faculty___: Faculty of Software Engineering and Computer Engineering
-
-    ___Educational program___: Software Engineering
-
-    ___Specialization___: System and Application software
-
-<br>
-
-## :sparkles:Languages
-- ___Russian___. Level: Native
-- ___English___. Level: B2, Upper-Indermediate
-
-<br>
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
